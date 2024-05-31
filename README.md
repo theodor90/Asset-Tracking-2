@@ -6,7 +6,10 @@ Data/ - Contains the Entity Framework Core DbContext.
 Models/ - Contains the asset models.
 Services/ - Contains the services for adding, viewing, updating, and deleting assets.
 Program.cs - Main entry point of the application.
+
+
 Code Structure
+
 Program.cs
 The main entry point of the application. It displays a menu and calls the appropriate service based on user input.
 

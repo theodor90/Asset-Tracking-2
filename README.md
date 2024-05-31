@@ -1,6 +1,7 @@
 # Asset-Tracking-2
 
 Project Structure
+
 Data/ - Contains the Entity Framework Core DbContext.
 Models/ - Contains the asset models.
 Services/ - Contains the services for adding, viewing, updating, and deleting assets.
